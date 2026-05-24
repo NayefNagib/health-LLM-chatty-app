@@ -40,14 +40,7 @@ npm install
 npx expo start
 ```
 
-## Future Improvements
 
-- Real-time messaging
-- AI healthcare assistant integration
-- Authentication system
-- Backend API connection
-- Voice support
-- Chat history persistence
 
 ## Author
 
